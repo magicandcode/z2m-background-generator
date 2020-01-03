@@ -1,9 +1,13 @@
 # Zero to Mastery Background Generator
-### Based on the project in [The Complete Web Developer in 2020:Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/).
+
+[https://magicandcode.github.io/z2m-background-generator/](https://magicandcode.github.io/z2m-background-generator/)
+
+Based on the project in [The Complete Web Developer in 2020:Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/).
+
 
 ![Select Colour](/../master/img/select-colour.png?raw=true "Select Colour")
 
-#### Extra features
+#### Added features
 * Initial values of color inputs match the background gradient.
 
 ![Background Generator](/../master/img/default-colours.png?raw=true "Background Generator")
