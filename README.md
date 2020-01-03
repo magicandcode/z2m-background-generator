@@ -5,11 +5,13 @@
 
 #### Extra features
 * Initial values of color inputs match the background gradient.
+
 ![Background Generator](/../master/img/default-colours.png?raw=true "Background Generator")
 
 * When the background gradient header is klicked, the `textContent` with an appended `;` is copied to the clipboard.
+
 ![Copy to Clipboard](/../master/img/copy-to-clipboard.png?raw=true "Copy to Clipboard")
 
 * Content visibility on dark background.
-![Dark Background](/../master/img/dark-colours.png?raw=true "Dark Background")
 
+![Dark Background](/../master/img/dark-colours.png?raw=true "Dark Background")
