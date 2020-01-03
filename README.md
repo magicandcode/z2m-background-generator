@@ -1,5 +1,5 @@
 # Zero to Mastery Background Generator
-### Based on the project in [The Complete Web Developer:2020](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/).
+### Based on the project in [The Complete Web Developer in 2020:Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/).
 
 #### Extra features
 * Initial values of color inputs match the actual background gradient.
